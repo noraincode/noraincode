@@ -36,3 +36,5 @@
 ### Where To Find Me
 
 [![GitHub](https://img.shields.io/badge/GitHub-noraincode-181717?logo=GitHub&style=for-the-badge)](https://github.com/noraincode)
+
+[![BiliBili](https://img.shields.io/badge/BiliBili-弦默、-00A1D6?logo=Bilibili&style=for-the-badge)](https://space.bilibili.com/208903990)
