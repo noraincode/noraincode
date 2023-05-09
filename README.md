@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Website Status](https://img.shields.io/website?label=https://evansblog.vercel.app/&down_color=lightgrey&down_message=offline&up_color=green&up_message=online&url=https%3A%2F%2Fevansblog.vercel.app)](https://evansblog.vercel.app)
+
 - 🔭 I’m currently working on emo
 - 🌱 I’m currently learning to live
 - 👯 I’m looking to collaborate on love
