@@ -19,9 +19,9 @@
 
 ![](https://img.shields.io/badge/Golang-★★-47848F?logo=Go)
 ![](https://img.shields.io/badge/Vue-★★-1572B6?logo=vuedotjs)
-![](https://img.shields.io/badge/CSS-★-61DAFB?logo=CSS)
 ![](https://img.shields.io/badge/React-★-61DAFB?logo=React)
-
+![](https://img.shields.io/badge/CSS-★-61DAFB?logo=css3)
+![](https://img.shields.io/badge/Tailwind-★-61DAFB?logo=tailwindcss)
 
 ![](https://img.shields.io/badge/Linux-★★-FCC624?logo=Linux)
 ![](https://img.shields.io/badge/Git-★★-F05032?logo=Git)
